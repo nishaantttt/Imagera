@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+@import "tailwindcss";
+
+*{
+    font-family: Outfit;
+}
+
+.placeholder-colour{
+    color: #94a3b8;
+    font-weight: 300;
+}
+
+body{
+    background: radial-gradient(circle at top, #1e293b 0, #020617 55%);
+    color: #e5e7eb;
+}
